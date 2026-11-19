@@ -13,6 +13,24 @@ A Laravel 12 web application for managing student records. Administrators can si
 - CSV export (`students.csv`) and PDF export (`students.pdf`); exports follow the active filters and include all matching records, regardless of the current page.
 - Form validation and automated feature tests.
 
+## Application Screenshots
+
+### Admin Dashboard
+
+![Admin Dashboard](docs/dashboard.png)
+
+### Student Listing
+
+![Student Listing](docs/student_list.png)
+
+### Add Student
+
+![Add Student](docs/add_ne_student.png)
+
+### Student Details
+
+![Student Details](docs/student_details.png)
+
 ## Technology
 
 - PHP 8.2 or later
